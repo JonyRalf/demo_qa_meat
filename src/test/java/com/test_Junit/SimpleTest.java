@@ -1,4 +1,4 @@
-package com.demoqa;
+package com.test_Junit;
 
 import com.codeborne.selenide.Selenide;
 import com.codeborne.selenide.WebDriverRunner;
